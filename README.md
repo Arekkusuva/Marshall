@@ -3,11 +3,11 @@
 
 ## Getting started
 
-`$ npm install react-native-marshall --save`
+`nothing here`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-marshall`
+`$ react-native link rn-marshall`
 
 ### Manual installation
 
@@ -45,7 +45,7 @@
 
 ## Usage
 ```javascript
-import RNMarshall from 'react-native-marshall';
+import RNMarshall from 'rn-marshall';
 
 // TODO: What to do with the module?
 RNMarshall;
